@@ -158,9 +158,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Benjamin Millalonco**
-- GitHub: [@hxcCoder](https://github.com/yourusername)
-- LinkedIn: [@benjamin.millalonco](https://linkedin.com/in/benjamin.millalonco)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- GitHub: [@hxcCoder](https://github.com/hxcCoder)
+- LinkedIn: [@benjamin.millalonco](www.linkedin.com/in/benjamin-millalonco)
 
 ## 🙏 Acknowledgments
 
