@@ -138,6 +138,9 @@ This project can be deployed to any platform that supports Next.js:
 - DigitalOcean App Platform
 - AWS Amplify
 
+**[👉 Ver Demo](https://task-manager-pro-hxccoder.vercel.app)** | **[📂 Código Fuente](https://github.com/hxcCoder/task-manager-pro)**
+
+<!-- Resto del README igual -->
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
