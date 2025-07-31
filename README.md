@@ -11,7 +11,7 @@
 
 **Un gestor de tareas avanzado construido con las tecnologías más modernas del desarrollo web**
 
-[🌐 **Ver Demo en Vivo**](https://task-manager-pro-hxccoder.vercel.app) • [📂 **Código Fuente**](https://github.com/hxcCoder/task-manager-pro) • [👨‍💻 **Mi Portfolio**](https://github.com/hxcCoder)
+[🌐 **Ver Demo en Vivo**](https://task-manager-1vnzvl6v4-benjaminmillalonc-6594s-projects.vercel.app) • [📂 **Código Fuente**](https://github.com/hxcCoder/task-manager-pro) • [👨‍💻 **Mi Portfolio**](https://github.com/hxcCoder)
 
 ---
 
