@@ -82,6 +82,10 @@
 **[👉 Probar la Aplicación](https://task-manager-pro-git-main-benjaminmillalonc-6594s-projects.vercel.app)**
 
 ### 📸 **Capturas de Pantalla**
+![5](https://github.com/user-attachments/assets/05bc1108-745c-432a-9287-f33e7e6d3847)
+---
+![1](https://github.com/user-attachments/assets/2e3d3ec5-efbb-401f-9ba3-9ec759e580e5)
+
 
 <div align="center">
 
