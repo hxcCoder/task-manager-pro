@@ -19,15 +19,15 @@
 
 ## 📋 **Tabla de Contenidos**
 
-- [🎯 Características](#-características)
-- [🛠️ Stack Tecnológico](#️-stack-tecnológico)
-- [🚀 Demo y Screenshots](#-demo-y-screenshots)
-- [⚡ Instalación Rápida](#-instalación-rápida)
-- [📁 Estructura del Proyecto](#-estructura-del-proyecto)
-- [🎨 Características Técnicas](#-características-técnicas)
-- [🔧 Scripts Disponibles](#-scripts-disponibles)
-- [🤝 Contribución](#-contribución)
-- [👨‍💻 Autor](#-autor)
+[🎯 Características](#-características)
+[🛠️ Stack Tecnológico](#️-stack-tecnológico)
+[🚀 Demo y Screenshots](#-demo-y-screenshots)
+[⚡ Instalación Rápida](#-instalación-rápida)
+[📁 Estructura del Proyecto](#-estructura-del-proyecto)
+[🎨 Características Técnicas](#-características-técnicas)
+[🔧 Scripts Disponibles](#-scripts-disponibles)
+[🤝 Contribución](#-contribución)
+[👨‍💻 Autor](#-autor)
 
 ---
 
